@@ -133,7 +133,7 @@ Si vous trouvez des bugs ou souhaitez proposer des améliorations :
 
 ## 📧 Contact & Support
 
-- **Email** : dany.guimefackh@centrale-casablanca.ma
+- **Email** : dany.guimefack@centrale-casablanca.ma
 ---
 
 ## 📜 Licence
