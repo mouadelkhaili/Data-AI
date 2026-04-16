@@ -29,6 +29,7 @@ def index():
 
 @app.route('/predict', methods=['POST'])
 def predict():
+    
     try:
         data = request.get_json(force=True)
         img_b64 = data['image'].split(',')[1]
